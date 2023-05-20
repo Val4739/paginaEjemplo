@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <tittle> Página de prueba</tittle>
+    </head>
+   
+    <body>
+        <header>
+            <h1> Piramides</h1>
+            <img crs="C:\Users\Pilares\Documents\VAL\Básico\OIP.jpg"/>
+        </header>
+    </body>
+</html>
